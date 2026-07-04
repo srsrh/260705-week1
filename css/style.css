@@ -161,9 +161,14 @@ footer {
     margin: 0 auto 24px;
 }
 
-.brand-intro .p-lorem p:nth-child(1){
+.brand-intro .p-lorem p{
     margin: 0 0 16px;
 }
+
+.brand-intro .p-lorem p:last-of-type{
+    margin: 0;
+}
+
 
 /* history */
 .history ul li::before {
