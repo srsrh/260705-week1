@@ -55,7 +55,6 @@ a:hover {
     margin: 0 0 12px;
 }
 
-
 header,
 footer {
     width: 100%;
@@ -67,7 +66,7 @@ footer {
 }
 
 
-/* 通用的文字樣式 */
+/* 通用文字樣式 */
 .btt {
     margin: 0 0 24px;
 }
@@ -118,6 +117,7 @@ footer {
 }
 
 .btt-h1 h1 {
+    text-align: center;
     color:#fff;
     font-size: 40px;
     font-weight: 700;
@@ -125,6 +125,7 @@ footer {
 }
 
 .btt-h1 p {
+    text-align: center;
     color:#fff;
     font-size: 28px;
     font-weight: 700;
